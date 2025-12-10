@@ -11,3 +11,4 @@ stripe==3.0.0
 toml==0.10.2
 Werkzeug==2.0.1
 Werkzeug==2.0.1
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
